@@ -11,5 +11,5 @@
 @interface DCHelper : NSObject
 
 + (void)showLog:(NSString *)text;
-
++ (void)showLog2:(NSString *)text;
 @end

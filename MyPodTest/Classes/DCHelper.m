@@ -15,4 +15,9 @@
     NSLog(@"dc 0.1.2 kit log :%@", text);
 }
 
++ (void)showLog2:(NSString *)text
+{
+    NSLog(@"dc 0.1.2 kit log :%@", text);
+}
+
 @end
