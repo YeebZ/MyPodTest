@@ -10,8 +10,9 @@
 #endif
 #endif
 
-#import "DCHelper.h"
+#import "User.h"
+#import "TestViewController.h"
 
-FOUNDATION_EXPORT double MyPodTestVersionNumber;
-FOUNDATION_EXPORT const unsigned char MyPodTestVersionString[];
+FOUNDATION_EXPORT double Pod_lib_testVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pod_lib_testVersionString[];
 

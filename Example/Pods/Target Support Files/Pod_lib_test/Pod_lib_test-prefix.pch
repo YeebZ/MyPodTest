@@ -10,8 +10,3 @@
 #endif
 #endif
 
-#import "DCHelper.h"
-
-FOUNDATION_EXPORT double MyPodTestVersionNumber;
-FOUNDATION_EXPORT const unsigned char MyPodTestVersionString[];
-
